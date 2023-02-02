@@ -1,6 +1,5 @@
 
 # 05 Third-Party APIs: Work Day Scheduler
-=======
 Simple work day planner application that allows a user to save events for each hour of the day. 
 The current date is displayed at the top of the page
 Past hours of the day will appear gray, indicating they have passed. 
